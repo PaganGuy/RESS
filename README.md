@@ -2,8 +2,11 @@
 aka - Recursively Executable Shell Script
 
 git clone https://github.com/PaganGuy/RESS.git
+
 cd RESS
+
 sudo ./install.sh
+
 Type ress anywhere
 
 Description:
