@@ -1,7 +1,7 @@
 # RESS
 Recursively Executable Shell Script
 
-git clone 
+git clone https://github.com/PaganGuy/RESS.git
 cd RESS
 sudo ./install.sh
 Type ress anywhere
